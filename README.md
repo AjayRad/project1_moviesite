@@ -1,7 +1,7 @@
 # Project1: Movie site
 
 ### About 
-This simple pythin script reads from a list of movies from a CSV file.This list is then served as a web page along with movie box images  and trailers.
+This simple python script reads from a list of movies from a CSV file.This list is then served as a web page along with movie box images  and trailers.
 
 Inputs: 
 CSV file with movie title and youtube trailer; movie details from rottentomatoes.
